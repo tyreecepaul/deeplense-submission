@@ -1,3 +1,5 @@
 dataset/
-lens-finding-test.zip
-best_lens_vit.pth
+lens-dataset/
+
+task-1-weights.pth
+task-5-weights.pth
