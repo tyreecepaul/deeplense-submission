@@ -39,7 +39,7 @@
 
 ---
 
-## Task 5: Binary Lens Classification
+## Task 5: Lens Finding & Data Pipelines
 
 **Objective:** Identify strong gravitational lenses from astronomical images.
 
